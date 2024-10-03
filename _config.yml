@@ -22,13 +22,13 @@ repository               : "diegovelilla/diegovelilla.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Diego Velilla"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "I like AI."
+  location         : "Barcelona, Spain"
+  employer         : "UPC-FIB"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "diegovelillarecio@gmail.org" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
